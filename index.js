@@ -42,7 +42,7 @@ module.exports = {
   // HDAccount: require('./hd-account'),
   // HDWallet: require('./hd-wallet'),
   // KeyChain: require('./keychain'),
-  // KeyRing: require('./keyring'),
+  KeyRing: require('./src/keyring'),
   Bitcoin: require('bitcoinjs-lib')
   // Base58: require('bs58'),
   // BigInteger: require('bigi'),
